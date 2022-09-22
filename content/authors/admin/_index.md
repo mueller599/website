@@ -52,7 +52,7 @@ social:
     link: https://twitter.com/katmuellersoc
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-  - link: [https://scholar.google.com/citations?hl=en&user=aZ8K_n4AAAAJ]
+  - link: https://scholar.google.com/citations?hl=en&user=aZ8K_n4AAAAJ/
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
