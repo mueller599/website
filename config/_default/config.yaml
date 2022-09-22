@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Katie Mueller, MA # Website name
+title: Katie Mueller, MA, EdM # Website name
 baseURL: 'https://katiemueller.netlify.app/' # Website URL
 
 ############################
