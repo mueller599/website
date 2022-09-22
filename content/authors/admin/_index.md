@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Sociology, in progress
       institution: The Ohio State University
-      year: 2022
+      # year: 2027
     - course: MA in Sociology
       institution: Syracuse University
       year: 2022
