@@ -14,7 +14,7 @@ organizations:
     url: https://sociology.osu.edu/people/mueller.599
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include gender and social movements.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/katmuellersoc
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -73,9 +73,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a first-year PhD student in the Sociology program at The Ohio State University. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
