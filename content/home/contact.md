@@ -28,10 +28,10 @@ content:
   email: mueller.599@buckeyemail.osu.edu
   # phone: 888 888 88 88
   address:
-    street: Townshend Hall 127
+    street: Townshend Hall 127 1885 Neil Avenue
     city: Columbus
     region: OH
-    postcode: '43214'
+    postcode: '43201'
     country: United States
     country_code: US
   # coordinates:
