@@ -50,9 +50,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/katmuellersoc
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+  -link: https://scholar.google.com/citations?hl=en&user=aZ8K_n4AAAAJ&scilu=&scisig=AMD79ooAAAAAYyyGuGYSYzDCVPK3z3lsr9Hbge8dbDg7&gmla=AJsN-F7WMLZj5ti_qZLqscFoYDCzg7YXJ1hYczsgIqB4jIwK7gPANgm9RKQqRP2rh-soffFCVrOQkbX4XMvC8lITAUEdrApfWXOwogdmEh-T4mYGjglQBKA&sciund=2728573160340326677
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
