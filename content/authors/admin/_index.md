@@ -73,5 +73,5 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first-year PhD student in the Sociology program at The Ohio State University. 
+I am a first-year PhD student in the Sociology program at The Ohio State University studying gender and social movements. My research focuses on inequalities by gender and how people mobilize to challenge these inequalities. I am currently working on a study on the state of contemporary feminism in a post-Roe U.S. 
 
